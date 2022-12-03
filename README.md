@@ -33,7 +33,7 @@ SUBCOMMANDS:
 You can install [WeChatTweak-CLI](https://github.com/g00g1e/WeChatTweak-CLI) via Homebrew.
 
 ```bash
-$ brew install sunnyyoung/repo/wechattweak-cli
+$ brew install g00g1e/repo/wechattweak-cli
 ```
 
 ### Manual (**NOT RECOMMENDED**)
